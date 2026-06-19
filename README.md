@@ -38,6 +38,9 @@
 
   <br>
   <p align="center"><img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/></p>
+   <div align="center">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arsa6789&&show_icons=true&theme=dark"/>
+   </div>
 </fieldset>
 </div>
 
