@@ -18,31 +18,63 @@
   </em>  
   
   <br><br>
-  <div align="center">
-     <img width="200" height="290" alt="image" src="https://github.com/user-attachments/assets/a13bf015-a14d-42d7-bf7e-b5cd508d6543" />
-  </div>
+<table align="center">
+    <p align="center"><img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/></p>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/a13bf015-a14d-42d7-bf7e-b5cd508d6543" width="200" height="290" alt="ShadowARSA GitFut Card" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>👋 Welcome to my GitHub Profile!</h3>
+      <p>I am a polyglot developer passionate about working across multiple tech stacks.</p>
+      <ul>
+        <li>🚀 <strong>Current Focus:</strong> Building scalable JavaScript applications</li>
+        <li>⚙️ <strong>Skills:</strong> Full-stack engineering & code review</li>
+        <li>📈 <strong>Goal:</strong> Keep shipping output and leveling up my stats</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
   <div align="center">
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tech Stack & Tools</i></b> 
   </div>
 
   <br>
     
-  <p align="center">
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br><br>
-      <img width="35px" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="35px" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-      <img width="35px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img width="35px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    </kbd>
-  </p>
+ <p align="center">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br><br>
+    <img width="35px" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="35px" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="35px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="35px"  src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Icon" />
+    <img width="35px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="35px" src="https://skillicons.dev/icons?i=tailwindcss" />
+  </kbd>
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br><br>
+    <img width="35px" src="https://skillicons.dev/icons?i=nodejs" /> 
+     <img width="35px" src="https://skillicons.dev/icons?i=expressjs" /> 
+     <img width="35px" src="https://skillicons.dev/icons?i=mongodb" /> 
+     <img width="35px" src="https://skillicons.dev/icons?i=firebase" /> 
+     <img width="35px" src="https://skillicons.dev/icons?i=supabase" /> 
+  </kbd>
+</p>
+<p align="center">
+   <kbd>
+    <kbd>Basic Knowledge</kbd>
+    <br><br>
+    <img width="35px" src="https://skillicons.dev/icons?i=python" /> 
+     <img width="35px" src="https://skillicons.dev/icons?i=c" /> 
+     <img width="35px" src="https://skillicons.dev/icons?i=linux" /> 
+     <img width="35px" src="https://skillicons.dev/icons?i=dart" /> 
+  </kbd>
+</p>
 
   <br>
-  <p align="center"><img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/></p>
-   <div align="center">
-   
-   </div>
 </fieldset>
 </div>
 
