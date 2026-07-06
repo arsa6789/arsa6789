@@ -18,7 +18,9 @@
   </em>  
   
   <br><br>
-  
+  <div align="center">
+     <img width="200" height="290" alt="image" src="https://github.com/user-attachments/assets/a13bf015-a14d-42d7-bf7e-b5cd508d6543" />
+  </div>
   <div align="center">
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tech Stack & Tools</i></b> 
   </div>
@@ -39,7 +41,7 @@
   <br>
   <p align="center"><img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/></p>
    <div align="center">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arsa6789&&show_icons=true&theme=dark"/>
+   
    </div>
 </fieldset>
 </div>
