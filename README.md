@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Chaudhry 👋 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey, I'm Shadow👋 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
 <h3 align="center">Front-End / Full-Stack Developer</h3>
 
 <p align="center">
